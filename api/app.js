@@ -4,6 +4,10 @@ const fs = require('fs');
 const path = require('path');
 const app = express();
 const port = 3000;
+const cors = require('cors');
+
+// Enable CORS for all routes
+app.use(cors());
 
 app.get('/get-f1-data', (req, res) => {
     const { year, race, driver } = req.query;
