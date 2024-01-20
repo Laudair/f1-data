@@ -1,0 +1,3262 @@
+[
+    {
+        "Distance": 0.0301820280110556,
+        "Speed": 261,
+        "nGear": 7
+    },
+    {
+        "Distance": 4.3424693864664246,
+        "Speed": 262,
+        "nGear": 7
+    },
+    {
+        "Distance": 10.283333333333335,
+        "Speed": 263,
+        "nGear": 7
+    },
+    {
+        "Distance": 20.533330979552186,
+        "Speed": 264,
+        "nGear": 7
+    },
+    {
+        "Distance": 28.016666666666666,
+        "Speed": 266,
+        "nGear": 7
+    },
+    {
+        "Distance": 36.86499204770353,
+        "Speed": 267,
+        "nGear": 7
+    },
+    {
+        "Distance": 45.88333333333333,
+        "Speed": 268,
+        "nGear": 7
+    },
+    {
+        "Distance": 53.26760879527116,
+        "Speed": 267,
+        "nGear": 7
+    },
+    {
+        "Distance": 63.68333333333334,
+        "Speed": 267,
+        "nGear": 7
+    },
+    {
+        "Distance": 69.39259238408752,
+        "Speed": 262,
+        "nGear": 7
+    },
+    {
+        "Distance": 80.81666666666666,
+        "Speed": 257,
+        "nGear": 7
+    },
+    {
+        "Distance": 84.97086487230465,
+        "Speed": 254,
+        "nGear": 7
+    },
+    {
+        "Distance": 97.55,
+        "Speed": 251,
+        "nGear": 7
+    },
+    {
+        "Distance": 100.20453710100644,
+        "Speed": 246,
+        "nGear": 7
+    },
+    {
+        "Distance": 113.61666666666666,
+        "Speed": 241,
+        "nGear": 7
+    },
+    {
+        "Distance": 114.8718041136035,
+        "Speed": 238,
+        "nGear": 7
+    },
+    {
+        "Distance": 129.0227126157581,
+        "Speed": 235,
+        "nGear": 7
+    },
+    {
+        "Distance": 129.08333333333331,
+        "Speed": 232,
+        "nGear": 7
+    },
+    {
+        "Distance": 141.394697271763,
+        "Speed": 216,
+        "nGear": 7
+    },
+    {
+        "Distance": 142.48333333333332,
+        "Speed": 201,
+        "nGear": 7
+    },
+    {
+        "Distance": 152.0886448561201,
+        "Speed": 186,
+        "nGear": 7
+    },
+    {
+        "Distance": 153.95,
+        "Speed": 172,
+        "nGear": 7
+    },
+    {
+        "Distance": 160.89883227848264,
+        "Speed": 162,
+        "nGear": 7
+    },
+    {
+        "Distance": 164.14999999999998,
+        "Speed": 153,
+        "nGear": 6
+    },
+    {
+        "Distance": 169.44723970922607,
+        "Speed": 143,
+        "nGear": 6
+    },
+    {
+        "Distance": 173.05361111111108,
+        "Speed": 133,
+        "nGear": 4
+    },
+    {
+        "Distance": 177.14995482457738,
+        "Speed": 127,
+        "nGear": 4
+    },
+    {
+        "Distance": 181.1869444444444,
+        "Speed": 122,
+        "nGear": 3
+    },
+    {
+        "Distance": 184.42522125190095,
+        "Speed": 119,
+        "nGear": 3
+    },
+    {
+        "Distance": 188.92027777777773,
+        "Speed": 116,
+        "nGear": 3
+    },
+    {
+        "Distance": 191.3675019045863,
+        "Speed": 113,
+        "nGear": 3
+    },
+    {
+        "Distance": 196.25361111111107,
+        "Speed": 110,
+        "nGear": 3
+    },
+    {
+        "Distance": 198.04038269018133,
+        "Speed": 109,
+        "nGear": 3
+    },
+    {
+        "Distance": 203.52027777777772,
+        "Speed": 109,
+        "nGear": 3
+    },
+    {
+        "Distance": 204.70167876025914,
+        "Speed": 109,
+        "nGear": 3
+    },
+    {
+        "Distance": 210.7869444444444,
+        "Speed": 109,
+        "nGear": 3
+    },
+    {
+        "Distance": 211.3605750491795,
+        "Speed": 109,
+        "nGear": 3
+    },
+    {
+        "Distance": 218.0228832102129,
+        "Speed": 109,
+        "nGear": 3
+    },
+    {
+        "Distance": 218.05361111111105,
+        "Speed": 109,
+        "nGear": 3
+    },
+    {
+        "Distance": 224.96009549247714,
+        "Speed": 111,
+        "nGear": 3
+    },
+    {
+        "Distance": 225.65361111111105,
+        "Speed": 114,
+        "nGear": 3
+    },
+    {
+        "Distance": 232.5272384792835,
+        "Speed": 119,
+        "nGear": 3
+    },
+    {
+        "Distance": 233.9869444444444,
+        "Speed": 125,
+        "nGear": 3
+    },
+    {
+        "Distance": 240.50885025508012,
+        "Speed": 129,
+        "nGear": 3
+    },
+    {
+        "Distance": 242.85361111111106,
+        "Speed": 133,
+        "nGear": 3
+    },
+    {
+        "Distance": 249.34099403554646,
+        "Speed": 141,
+        "nGear": 3
+    },
+    {
+        "Distance": 252.78694444444437,
+        "Speed": 149,
+        "nGear": 3
+    },
+    {
+        "Distance": 258.85304610905797,
+        "Speed": 154,
+        "nGear": 3
+    },
+    {
+        "Distance": 263.3427777777777,
+        "Speed": 159,
+        "nGear": 3
+    },
+    {
+        "Distance": 268.82778436368176,
+        "Speed": 164,
+        "nGear": 3
+    },
+    {
+        "Distance": 274.60944444444436,
+        "Speed": 169,
+        "nGear": 4
+    },
+    {
+        "Distance": 279.52824236809533,
+        "Speed": 175,
+        "nGear": 4
+    },
+    {
+        "Distance": 286.7427777777777,
+        "Speed": 182,
+        "nGear": 4
+    },
+    {
+        "Distance": 290.8356537205206,
+        "Speed": 185,
+        "nGear": 4
+    },
+    {
+        "Distance": 299.3427777777777,
+        "Speed": 189,
+        "nGear": 4
+    },
+    {
+        "Distance": 302.5454853814183,
+        "Speed": 194,
+        "nGear": 4
+    },
+    {
+        "Distance": 312.60944444444436,
+        "Speed": 199,
+        "nGear": 4
+    },
+    {
+        "Distance": 314.8063519490727,
+        "Speed": 202,
+        "nGear": 4
+    },
+    {
+        "Distance": 326.276111111111,
+        "Speed": 205,
+        "nGear": 5
+    },
+    {
+        "Distance": 327.3737526904868,
+        "Speed": 207,
+        "nGear": 5
+    },
+    {
+        "Distance": 340.28302041518145,
+        "Speed": 209,
+        "nGear": 5
+    },
+    {
+        "Distance": 340.34277777777766,
+        "Speed": 211,
+        "nGear": 5
+    },
+    {
+        "Distance": 353.65098310375254,
+        "Speed": 215,
+        "nGear": 5
+    },
+    {
+        "Distance": 354.9427777777777,
+        "Speed": 219,
+        "nGear": 5
+    },
+    {
+        "Distance": 367.295885837765,
+        "Speed": 221,
+        "nGear": 5
+    },
+    {
+        "Distance": 369.876111111111,
+        "Speed": 224,
+        "nGear": 5
+    },
+    {
+        "Distance": 381.29140073086387,
+        "Speed": 227,
+        "nGear": 5
+    },
+    {
+        "Distance": 385.20944444444433,
+        "Speed": 230,
+        "nGear": 5
+    },
+    {
+        "Distance": 395.4508574698438,
+        "Speed": 231,
+        "nGear": 5
+    },
+    {
+        "Distance": 403.3316666666666,
+        "Speed": 233,
+        "nGear": 5
+    },
+    {
+        "Distance": 409.86593632457857,
+        "Speed": 236,
+        "nGear": 5
+    },
+    {
+        "Distance": 419.2649999999999,
+        "Speed": 239,
+        "nGear": 6
+    },
+    {
+        "Distance": 424.55062558809453,
+        "Speed": 240,
+        "nGear": 6
+    },
+    {
+        "Distance": 435.3983333333332,
+        "Speed": 242,
+        "nGear": 6
+    },
+    {
+        "Distance": 439.4167207482446,
+        "Speed": 244,
+        "nGear": 6
+    },
+    {
+        "Distance": 451.8649999999999,
+        "Speed": 247,
+        "nGear": 6
+    },
+    {
+        "Distance": 454.5612148512495,
+        "Speed": 248,
+        "nGear": 6
+    },
+    {
+        "Distance": 468.5316666666666,
+        "Speed": 250,
+        "nGear": 6
+    },
+    {
+        "Distance": 469.8594554095988,
+        "Speed": 251,
+        "nGear": 6
+    },
+    {
+        "Distance": 483.98488232665704,
+        "Speed": 252,
+        "nGear": 6
+    },
+    {
+        "Distance": 485.39833333333326,
+        "Speed": 253,
+        "nGear": 6
+    },
+    {
+        "Distance": 499.60875836174176,
+        "Speed": 254,
+        "nGear": 6
+    },
+    {
+        "Distance": 502.4649999999999,
+        "Speed": 256,
+        "nGear": 6
+    },
+    {
+        "Distance": 515.3632685650307,
+        "Speed": 257,
+        "nGear": 6
+    },
+    {
+        "Distance": 516.87,
+        "Speed": 258,
+        "nGear": 7
+    },
+    {
+        "Distance": 531.1702047600934,
+        "Speed": 258,
+        "nGear": 7
+    },
+    {
+        "Distance": 534.1366666666667,
+        "Speed": 259,
+        "nGear": 7
+    },
+    {
+        "Distance": 547.1952636082528,
+        "Speed": 261,
+        "nGear": 7
+    },
+    {
+        "Distance": 551.6699999999998,
+        "Speed": 263,
+        "nGear": 7
+    },
+    {
+        "Distance": 563.3693180734494,
+        "Speed": 264,
+        "nGear": 7
+    },
+    {
+        "Distance": 569.3366666666665,
+        "Speed": 265,
+        "nGear": 7
+    },
+    {
+        "Distance": 579.5753483367462,
+        "Speed": 265,
+        "nGear": 7
+    },
+    {
+        "Distance": 587.0033333333331,
+        "Speed": 265,
+        "nGear": 7
+    },
+    {
+        "Distance": 595.7337981041126,
+        "Speed": 264,
+        "nGear": 7
+    },
+    {
+        "Distance": 604.5366666666664,
+        "Speed": 263,
+        "nGear": 7
+    },
+    {
+        "Distance": 611.644623746342,
+        "Speed": 259,
+        "nGear": 7
+    },
+    {
+        "Distance": 621.6033333333331,
+        "Speed": 256,
+        "nGear": 7
+    },
+    {
+        "Distance": 627.0861424359744,
+        "Speed": 251,
+        "nGear": 7
+    },
+    {
+        "Distance": 638.0699999999998,
+        "Speed": 247,
+        "nGear": 7
+    },
+    {
+        "Distance": 642.0449858993845,
+        "Speed": 243,
+        "nGear": 7
+    },
+    {
+        "Distance": 654.0699999999998,
+        "Speed": 240,
+        "nGear": 7
+    },
+    {
+        "Distance": 656.625694667448,
+        "Speed": 236,
+        "nGear": 7
+    },
+    {
+        "Distance": 669.5366666666665,
+        "Speed": 232,
+        "nGear": 7
+    },
+    {
+        "Distance": 670.7248250300826,
+        "Speed": 227,
+        "nGear": 7
+    },
+    {
+        "Distance": 684.0118482346196,
+        "Speed": 222,
+        "nGear": 7
+    },
+    {
+        "Distance": 684.0699999999998,
+        "Speed": 218,
+        "nGear": 7
+    },
+    {
+        "Distance": 696.274061956713,
+        "Speed": 209,
+        "nGear": 7
+    },
+    {
+        "Distance": 699.5699999999998,
+        "Speed": 200,
+        "nGear": 5
+    },
+    {
+        "Distance": 707.9776002821391,
+        "Speed": 194,
+        "nGear": 5
+    },
+    {
+        "Distance": 712.1699999999997,
+        "Speed": 189,
+        "nGear": 5
+    },
+    {
+        "Distance": 719.232474143548,
+        "Speed": 185,
+        "nGear": 5
+    },
+    {
+        "Distance": 724.2366666666665,
+        "Speed": 181,
+        "nGear": 4
+    },
+    {
+        "Distance": 729.9756296782656,
+        "Speed": 176,
+        "nGear": 4
+    },
+    {
+        "Distance": 735.7033333333331,
+        "Speed": 172,
+        "nGear": 4
+    },
+    {
+        "Distance": 740.3595017513958,
+        "Speed": 170,
+        "nGear": 4
+    },
+    {
+        "Distance": 746.9033333333332,
+        "Speed": 168,
+        "nGear": 4
+    },
+    {
+        "Distance": 750.4970126224405,
+        "Speed": 165,
+        "nGear": 4
+    },
+    {
+        "Distance": 757.7033333333331,
+        "Speed": 162,
+        "nGear": 4
+    },
+    {
+        "Distance": 760.3285406625707,
+        "Speed": 160,
+        "nGear": 4
+    },
+    {
+        "Distance": 768.3033333333332,
+        "Speed": 159,
+        "nGear": 4
+    },
+    {
+        "Distance": 769.9947161033081,
+        "Speed": 157,
+        "nGear": 4
+    },
+    {
+        "Distance": 778.6366666666665,
+        "Speed": 155,
+        "nGear": 4
+    },
+    {
+        "Distance": 779.4609405136096,
+        "Speed": 156,
+        "nGear": 4
+    },
+    {
+        "Distance": 789.1257114404204,
+        "Speed": 157,
+        "nGear": 4
+    },
+    {
+        "Distance": 789.1699999999998,
+        "Speed": 158,
+        "nGear": 4
+    },
+    {
+        "Distance": 798.9509578651871,
+        "Speed": 159,
+        "nGear": 4
+    },
+    {
+        "Distance": 799.9033333333332,
+        "Speed": 161,
+        "nGear": 4
+    },
+    {
+        "Distance": 809.0648454008268,
+        "Speed": 163,
+        "nGear": 4
+    },
+    {
+        "Distance": 810.9699999999998,
+        "Speed": 166,
+        "nGear": 4
+    },
+    {
+        "Distance": 819.323729594463,
+        "Speed": 167,
+        "nGear": 4
+    },
+    {
+        "Distance": 822.1699999999998,
+        "Speed": 168,
+        "nGear": 4
+    },
+    {
+        "Distance": 829.5588142675626,
+        "Speed": 167,
+        "nGear": 4
+    },
+    {
+        "Distance": 833.2366666666666,
+        "Speed": 166,
+        "nGear": 4
+    },
+    {
+        "Distance": 839.3416435220394,
+        "Speed": 161,
+        "nGear": 4
+    },
+    {
+        "Distance": 843.6366666666665,
+        "Speed": 156,
+        "nGear": 4
+    },
+    {
+        "Distance": 848.5637951592728,
+        "Speed": 151,
+        "nGear": 4
+    },
+    {
+        "Distance": 853.4366666666665,
+        "Speed": 147,
+        "nGear": 4
+    },
+    {
+        "Distance": 856.5885750684077,
+        "Speed": 143,
+        "nGear": 4
+    },
+    {
+        "Distance": 862.7699999999999,
+        "Speed": 140,
+        "nGear": 4
+    },
+    {
+        "Distance": 865.0695082042932,
+        "Speed": 138,
+        "nGear": 4
+    },
+    {
+        "Distance": 870.4191666666666,
+        "Speed": 137,
+        "nGear": 4
+    },
+    {
+        "Distance": 873.3645116401431,
+        "Speed": 135,
+        "nGear": 4
+    },
+    {
+        "Distance": 879.2858333333331,
+        "Speed": 133,
+        "nGear": 4
+    },
+    {
+        "Distance": 881.4483772921392,
+        "Speed": 132,
+        "nGear": 4
+    },
+    {
+        "Distance": 888.0858333333332,
+        "Speed": 132,
+        "nGear": 4
+    },
+    {
+        "Distance": 889.5243124231143,
+        "Speed": 133,
+        "nGear": 4
+    },
+    {
+        "Distance": 897.0191666666665,
+        "Speed": 134,
+        "nGear": 4
+    },
+    {
+        "Distance": 897.7390676070455,
+        "Speed": 135,
+        "nGear": 4
+    },
+    {
+        "Distance": 906.2463422566572,
+        "Speed": 137,
+        "nGear": 4
+    },
+    {
+        "Distance": 906.2858333333332,
+        "Speed": 139,
+        "nGear": 4
+    },
+    {
+        "Distance": 915.0954514603832,
+        "Speed": 142,
+        "nGear": 4
+    },
+    {
+        "Distance": 917.563611111111,
+        "Speed": 145,
+        "nGear": 4
+    },
+    {
+        "Distance": 923.9898009888265,
+        "Speed": 146,
+        "nGear": 4
+    },
+    {
+        "Distance": 927.363611111111,
+        "Speed": 147,
+        "nGear": 4
+    },
+    {
+        "Distance": 933.4174915046526,
+        "Speed": 153,
+        "nGear": 4
+    },
+    {
+        "Distance": 938.0302777777777,
+        "Speed": 160,
+        "nGear": 4
+    },
+    {
+        "Distance": 943.6998826992132,
+        "Speed": 167,
+        "nGear": 4
+    },
+    {
+        "Distance": 949.6969444444444,
+        "Speed": 175,
+        "nGear": 4
+    },
+    {
+        "Distance": 954.7562443090803,
+        "Speed": 181,
+        "nGear": 4
+    },
+    {
+        "Distance": 962.163611111111,
+        "Speed": 187,
+        "nGear": 4
+    },
+    {
+        "Distance": 966.3934404057184,
+        "Speed": 191,
+        "nGear": 4
+    },
+    {
+        "Distance": 975.1636111111109,
+        "Speed": 195,
+        "nGear": 4
+    },
+    {
+        "Distance": 978.4144187774162,
+        "Speed": 198,
+        "nGear": 4
+    },
+    {
+        "Distance": 988.563611111111,
+        "Speed": 201,
+        "nGear": 4
+    },
+    {
+        "Distance": 990.7469191013076,
+        "Speed": 205,
+        "nGear": 4
+    },
+    {
+        "Distance": 1002.5052777777777,
+        "Speed": 210,
+        "nGear": 5
+    },
+    {
+        "Distance": 1003.6170073137873,
+        "Speed": 209,
+        "nGear": 5
+    },
+    {
+        "Distance": 1016.3814420098033,
+        "Speed": 209,
+        "nGear": 5
+    },
+    {
+        "Distance": 1016.438611111111,
+        "Speed": 209,
+        "nGear": 5
+    },
+    {
+        "Distance": 1028.698919648784,
+        "Speed": 205,
+        "nGear": 5
+    },
+    {
+        "Distance": 1029.838611111111,
+        "Speed": 201,
+        "nGear": 5
+    },
+    {
+        "Distance": 1040.319930964112,
+        "Speed": 195,
+        "nGear": 5
+    },
+    {
+        "Distance": 1042.438611111111,
+        "Speed": 189,
+        "nGear": 5
+    },
+    {
+        "Distance": 1051.5185924305179,
+        "Speed": 184,
+        "nGear": 5
+    },
+    {
+        "Distance": 1054.3719444444444,
+        "Speed": 179,
+        "nGear": 5
+    },
+    {
+        "Distance": 1061.0153644843292,
+        "Speed": 163,
+        "nGear": 5
+    },
+    {
+        "Distance": 1064.1719444444443,
+        "Speed": 147,
+        "nGear": 5
+    },
+    {
+        "Distance": 1069.4457929484242,
+        "Speed": 140,
+        "nGear": 5
+    },
+    {
+        "Distance": 1073.0386111111109,
+        "Speed": 133,
+        "nGear": 3
+    },
+    {
+        "Distance": 1076.907805153569,
+        "Speed": 123,
+        "nGear": 3
+    },
+    {
+        "Distance": 1080.5719444444442,
+        "Speed": 113,
+        "nGear": 2
+    },
+    {
+        "Distance": 1083.4691375726513,
+        "Speed": 108,
+        "nGear": 2
+    },
+    {
+        "Distance": 1087.4386111111107,
+        "Speed": 103,
+        "nGear": 2
+    },
+    {
+        "Distance": 1089.5818407614897,
+        "Speed": 99,
+        "nGear": 2
+    },
+    {
+        "Distance": 1093.7719444444442,
+        "Speed": 95,
+        "nGear": 2
+    },
+    {
+        "Distance": 1095.2487095964175,
+        "Speed": 91,
+        "nGear": 2
+    },
+    {
+        "Distance": 1099.6386111111108,
+        "Speed": 88,
+        "nGear": 2
+    },
+    {
+        "Distance": 1100.5758430052065,
+        "Speed": 86,
+        "nGear": 2
+    },
+    {
+        "Distance": 1105.3052777777775,
+        "Speed": 85,
+        "nGear": 2
+    },
+    {
+        "Distance": 1105.7323888778885,
+        "Speed": 82,
+        "nGear": 2
+    },
+    {
+        "Distance": 1110.4837250664195,
+        "Speed": 80,
+        "nGear": 2
+    },
+    {
+        "Distance": 1110.5052777777776,
+        "Speed": 78,
+        "nGear": 2
+    },
+    {
+        "Distance": 1115.254105680392,
+        "Speed": 78,
+        "nGear": 2
+    },
+    {
+        "Distance": 1115.7052777777776,
+        "Speed": 78,
+        "nGear": 2
+    },
+    {
+        "Distance": 1119.5173502179393,
+        "Speed": 77,
+        "nGear": 2
+    },
+    {
+        "Distance": 1120.7719444444442,
+        "Speed": 76,
+        "nGear": 2
+    },
+    {
+        "Distance": 1124.0915148714594,
+        "Speed": 75,
+        "nGear": 2
+    },
+    {
+        "Distance": 1125.7719444444442,
+        "Speed": 75,
+        "nGear": 2
+    },
+    {
+        "Distance": 1128.7828684614756,
+        "Speed": 76,
+        "nGear": 2
+    },
+    {
+        "Distance": 1130.1269444444442,
+        "Speed": 78,
+        "nGear": 2
+    },
+    {
+        "Distance": 1133.7337315632699,
+        "Speed": 80,
+        "nGear": 2
+    },
+    {
+        "Distance": 1135.6602777777775,
+        "Speed": 83,
+        "nGear": 2
+    },
+    {
+        "Distance": 1139.138740085591,
+        "Speed": 87,
+        "nGear": 2
+    },
+    {
+        "Distance": 1141.7936111111107,
+        "Speed": 92,
+        "nGear": 2
+    },
+    {
+        "Distance": 1145.0513521046187,
+        "Speed": 96,
+        "nGear": 2
+    },
+    {
+        "Distance": 1148.526944444444,
+        "Speed": 101,
+        "nGear": 2
+    },
+    {
+        "Distance": 1151.5075743753382,
+        "Speed": 106,
+        "nGear": 2
+    },
+    {
+        "Distance": 1155.926944444444,
+        "Speed": 111,
+        "nGear": 2
+    },
+    {
+        "Distance": 1158.4664226865561,
+        "Speed": 115,
+        "nGear": 2
+    },
+    {
+        "Distance": 1163.926944444444,
+        "Speed": 120,
+        "nGear": 3
+    },
+    {
+        "Distance": 1166.0999386963565,
+        "Speed": 126,
+        "nGear": 3
+    },
+    {
+        "Distance": 1174.7760290579981,
+        "Speed": 133,
+        "nGear": 3
+    },
+    {
+        "Distance": 1174.8158333333329,
+        "Speed": 140,
+        "nGear": 3
+    },
+    {
+        "Distance": 1183.4725151339183,
+        "Speed": 141,
+        "nGear": 3
+    },
+    {
+        "Distance": 1184.2824999999996,
+        "Speed": 142,
+        "nGear": 3
+    },
+    {
+        "Distance": 1191.669845647017,
+        "Speed": 137,
+        "nGear": 3
+    },
+    {
+        "Distance": 1193.0824999999995,
+        "Speed": 132,
+        "nGear": 3
+    },
+    {
+        "Distance": 1198.7588652587558,
+        "Speed": 122,
+        "nGear": 3
+    },
+    {
+        "Distance": 1200.6158333333328,
+        "Speed": 113,
+        "nGear": 3
+    },
+    {
+        "Distance": 1205.4003509321296,
+        "Speed": 109,
+        "nGear": 3
+    },
+    {
+        "Distance": 1207.6824999999997,
+        "Speed": 106,
+        "nGear": 3
+    },
+    {
+        "Distance": 1211.2058157364213,
+        "Speed": 97,
+        "nGear": 3
+    },
+    {
+        "Distance": 1213.615833333333,
+        "Speed": 89,
+        "nGear": 1
+    },
+    {
+        "Distance": 1216.2822049063889,
+        "Speed": 84,
+        "nGear": 1
+    },
+    {
+        "Distance": 1218.8605555555553,
+        "Speed": 79,
+        "nGear": 1
+    },
+    {
+        "Distance": 1220.83711270452,
+        "Speed": 74,
+        "nGear": 1
+    },
+    {
+        "Distance": 1223.4605555555554,
+        "Speed": 69,
+        "nGear": 1
+    },
+    {
+        "Distance": 1224.84211419146,
+        "Speed": 65,
+        "nGear": 1
+    },
+    {
+        "Distance": 1227.527222222222,
+        "Speed": 61,
+        "nGear": 1
+    },
+    {
+        "Distance": 1228.5014883747144,
+        "Speed": 60,
+        "nGear": 1
+    },
+    {
+        "Distance": 1231.4605555555554,
+        "Speed": 59,
+        "nGear": 1
+    },
+    {
+        "Distance": 1232.0899824151072,
+        "Speed": 58,
+        "nGear": 1
+    },
+    {
+        "Distance": 1235.2605555555554,
+        "Speed": 57,
+        "nGear": 1
+    },
+    {
+        "Distance": 1235.5498076728682,
+        "Speed": 55,
+        "nGear": 1
+    },
+    {
+        "Distance": 1238.7794995728511,
+        "Speed": 54,
+        "nGear": 1
+    },
+    {
+        "Distance": 1238.7938888888887,
+        "Speed": 53,
+        "nGear": 1
+    },
+    {
+        "Distance": 1241.9002575370805,
+        "Speed": 52,
+        "nGear": 1
+    },
+    {
+        "Distance": 1242.1938888888888,
+        "Speed": 51,
+        "nGear": 1
+    },
+    {
+        "Distance": 1244.9244301939907,
+        "Speed": 50,
+        "nGear": 1
+    },
+    {
+        "Distance": 1245.4605555555554,
+        "Speed": 49,
+        "nGear": 1
+    },
+    {
+        "Distance": 1247.6869274463145,
+        "Speed": 47,
+        "nGear": 1
+    },
+    {
+        "Distance": 1248.4605555555554,
+        "Speed": 45,
+        "nGear": 1
+    },
+    {
+        "Distance": 1250.5908149571192,
+        "Speed": 47,
+        "nGear": 1
+    },
+    {
+        "Distance": 1251.727222222222,
+        "Speed": 49,
+        "nGear": 1
+    },
+    {
+        "Distance": 1253.7453647610691,
+        "Speed": 51,
+        "nGear": 1
+    },
+    {
+        "Distance": 1255.2605555555554,
+        "Speed": 53,
+        "nGear": 1
+    },
+    {
+        "Distance": 1257.0941276237932,
+        "Speed": 55,
+        "nGear": 1
+    },
+    {
+        "Distance": 1259.0605555555553,
+        "Speed": 57,
+        "nGear": 1
+    },
+    {
+        "Distance": 1260.7828707094782,
+        "Speed": 61,
+        "nGear": 1
+    },
+    {
+        "Distance": 1263.3938888888886,
+        "Speed": 65,
+        "nGear": 1
+    },
+    {
+        "Distance": 1264.9453379120332,
+        "Speed": 69,
+        "nGear": 1
+    },
+    {
+        "Distance": 1268.2605555555554,
+        "Speed": 73,
+        "nGear": 1
+    },
+    {
+        "Distance": 1269.6091063661129,
+        "Speed": 79,
+        "nGear": 1
+    },
+    {
+        "Distance": 1273.9938888888887,
+        "Speed": 86,
+        "nGear": 1
+    },
+    {
+        "Distance": 1275.0324409720727,
+        "Speed": 91,
+        "nGear": 1
+    },
+    {
+        "Distance": 1279.3538888888886,
+        "Speed": 96,
+        "nGear": 1
+    },
+    {
+        "Distance": 1280.9252279731686,
+        "Speed": 96,
+        "nGear": 1
+    },
+    {
+        "Distance": 1285.7538888888887,
+        "Speed": 96,
+        "nGear": 2
+    },
+    {
+        "Distance": 1286.8267654377744,
+        "Speed": 98,
+        "nGear": 2
+    },
+    {
+        "Distance": 1292.4205555555552,
+        "Speed": 100,
+        "nGear": 2
+    },
+    {
+        "Distance": 1292.9314123395634,
+        "Speed": 97,
+        "nGear": 2
+    },
+    {
+        "Distance": 1298.5954349354663,
+        "Speed": 95,
+        "nGear": 2
+    },
+    {
+        "Distance": 1298.6205555555553,
+        "Speed": 93,
+        "nGear": 2
+    },
+    {
+        "Distance": 1304.03907236374,
+        "Speed": 91,
+        "nGear": 2
+    },
+    {
+        "Distance": 1304.5538888888887,
+        "Speed": 89,
+        "nGear": 2
+    },
+    {
+        "Distance": 1309.3871886256404,
+        "Speed": 88,
+        "nGear": 2
+    },
+    {
+        "Distance": 1310.3538888888886,
+        "Speed": 87,
+        "nGear": 2
+    },
+    {
+        "Distance": 1314.4355685950898,
+        "Speed": 84,
+        "nGear": 2
+    },
+    {
+        "Distance": 1315.8205555555553,
+        "Speed": 82,
+        "nGear": 2
+    },
+    {
+        "Distance": 1319.4778698061646,
+        "Speed": 82,
+        "nGear": 2
+    },
+    {
+        "Distance": 1321.3538888888886,
+        "Speed": 83,
+        "nGear": 2
+    },
+    {
+        "Distance": 1324.5803417351162,
+        "Speed": 83,
+        "nGear": 2
+    },
+    {
+        "Distance": 1326.9538888888887,
+        "Speed": 84,
+        "nGear": 2
+    },
+    {
+        "Distance": 1329.8015964826316,
+        "Speed": 86,
+        "nGear": 2
+    },
+    {
+        "Distance": 1332.8205555555553,
+        "Speed": 88,
+        "nGear": 2
+    },
+    {
+        "Distance": 1335.4339711803964,
+        "Speed": 93,
+        "nGear": 2
+    },
+    {
+        "Distance": 1339.3538888888886,
+        "Speed": 98,
+        "nGear": 2
+    },
+    {
+        "Distance": 1341.634832921058,
+        "Speed": 102,
+        "nGear": 2
+    },
+    {
+        "Distance": 1346.4872222222218,
+        "Speed": 107,
+        "nGear": 2
+    },
+    {
+        "Distance": 1348.3107853203796,
+        "Speed": 112,
+        "nGear": 2
+    },
+    {
+        "Distance": 1354.2872222222218,
+        "Speed": 117,
+        "nGear": 2
+    },
+    {
+        "Distance": 1355.5810874637787,
+        "Speed": 120,
+        "nGear": 2
+    },
+    {
+        "Distance": 1362.5194444444442,
+        "Speed": 124,
+        "nGear": 2
+    },
+    {
+        "Distance": 1363.1564137298162,
+        "Speed": 121,
+        "nGear": 2
+    },
+    {
+        "Distance": 1370.156236042641,
+        "Speed": 118,
+        "nGear": 2
+    },
+    {
+        "Distance": 1370.1861111111107,
+        "Speed": 115,
+        "nGear": 2
+    },
+    {
+        "Distance": 1376.3476018466604,
+        "Speed": 108,
+        "nGear": 2
+    },
+    {
+        "Distance": 1376.919444444444,
+        "Speed": 101,
+        "nGear": 2
+    },
+    {
+        "Distance": 1382.252871471721,
+        "Speed": 98,
+        "nGear": 2
+    },
+    {
+        "Distance": 1383.3194444444441,
+        "Speed": 96,
+        "nGear": 2
+    },
+    {
+        "Distance": 1387.8247530490532,
+        "Speed": 93,
+        "nGear": 2
+    },
+    {
+        "Distance": 1389.3194444444441,
+        "Speed": 90,
+        "nGear": 2
+    },
+    {
+        "Distance": 1393.14082685405,
+        "Speed": 88,
+        "nGear": 2
+    },
+    {
+        "Distance": 1395.0527777777772,
+        "Speed": 86,
+        "nGear": 2
+    },
+    {
+        "Distance": 1398.2855801359133,
+        "Speed": 84,
+        "nGear": 2
+    },
+    {
+        "Distance": 1400.5861111111105,
+        "Speed": 83,
+        "nGear": 2
+    },
+    {
+        "Distance": 1403.2356328276933,
+        "Speed": 81,
+        "nGear": 2
+    },
+    {
+        "Distance": 1405.919444444444,
+        "Speed": 80,
+        "nGear": 2
+    },
+    {
+        "Distance": 1408.1513683949568,
+        "Speed": 81,
+        "nGear": 2
+    },
+    {
+        "Distance": 1411.3861111111105,
+        "Speed": 82,
+        "nGear": 2
+    },
+    {
+        "Distance": 1413.2271083556998,
+        "Speed": 84,
+        "nGear": 2
+    },
+    {
+        "Distance": 1417.1194444444438,
+        "Speed": 86,
+        "nGear": 2
+    },
+    {
+        "Distance": 1418.6331171264374,
+        "Speed": 91,
+        "nGear": 2
+    },
+    {
+        "Distance": 1423.519444444444,
+        "Speed": 96,
+        "nGear": 2
+    },
+    {
+        "Distance": 1424.5995022910681,
+        "Speed": 99,
+        "nGear": 2
+    },
+    {
+        "Distance": 1430.3861111111107,
+        "Speed": 103,
+        "nGear": 2
+    },
+    {
+        "Distance": 1430.965991352784,
+        "Speed": 107,
+        "nGear": 2
+    },
+    {
+        "Distance": 1437.4489025914095,
+        "Speed": 111,
+        "nGear": 2
+    },
+    {
+        "Distance": 1438.1194444444438,
+        "Speed": 116,
+        "nGear": 2
+    },
+    {
+        "Distance": 1445.061138670244,
+        "Speed": 121,
+        "nGear": 2
+    },
+    {
+        "Distance": 1446.519444444444,
+        "Speed": 126,
+        "nGear": 2
+    },
+    {
+        "Distance": 1453.3841606524861,
+        "Speed": 132,
+        "nGear": 2
+    },
+    {
+        "Distance": 1455.719444444444,
+        "Speed": 138,
+        "nGear": 3
+    },
+    {
+        "Distance": 1462.0352293619283,
+        "Speed": 141,
+        "nGear": 3
+    },
+    {
+        "Distance": 1463.759444444444,
+        "Speed": 144,
+        "nGear": 3
+    },
+    {
+        "Distance": 1471.9305076803125,
+        "Speed": 154,
+        "nGear": 3
+    },
+    {
+        "Distance": 1474.7594444444437,
+        "Speed": 165,
+        "nGear": 3
+    },
+    {
+        "Distance": 1481.9907091062764,
+        "Speed": 165,
+        "nGear": 3
+    },
+    {
+        "Distance": 1485.7594444444437,
+        "Speed": 165,
+        "nGear": 4
+    },
+    {
+        "Distance": 1492.5286481773342,
+        "Speed": 172,
+        "nGear": 4
+    },
+    {
+        "Distance": 1497.692777777777,
+        "Speed": 179,
+        "nGear": 4
+    },
+    {
+        "Distance": 1504.0475596359615,
+        "Speed": 187,
+        "nGear": 4
+    },
+    {
+        "Distance": 1510.692777777777,
+        "Speed": 195,
+        "nGear": 4
+    },
+    {
+        "Distance": 1516.1788928018584,
+        "Speed": 198,
+        "nGear": 4
+    },
+    {
+        "Distance": 1524.0927777777767,
+        "Speed": 201,
+        "nGear": 5
+    },
+    {
+        "Distance": 1528.5945275294346,
+        "Speed": 204,
+        "nGear": 5
+    },
+    {
+        "Distance": 1537.9594444444435,
+        "Speed": 208,
+        "nGear": 5
+    },
+    {
+        "Distance": 1541.4756563307528,
+        "Speed": 213,
+        "nGear": 5
+    },
+    {
+        "Distance": 1552.492777777777,
+        "Speed": 218,
+        "nGear": 5
+    },
+    {
+        "Distance": 1554.892251110734,
+        "Speed": 220,
+        "nGear": 5
+    },
+    {
+        "Distance": 1567.3594444444434,
+        "Speed": 223,
+        "nGear": 5
+    },
+    {
+        "Distance": 1568.5426005748336,
+        "Speed": 224,
+        "nGear": 5
+    },
+    {
+        "Distance": 1582.3621895937874,
+        "Speed": 225,
+        "nGear": 5
+    },
+    {
+        "Distance": 1582.4261111111102,
+        "Speed": 226,
+        "nGear": 5
+    },
+    {
+        "Distance": 1596.700656759418,
+        "Speed": 230,
+        "nGear": 5
+    },
+    {
+        "Distance": 1598.092777777777,
+        "Speed": 235,
+        "nGear": 6
+    },
+    {
+        "Distance": 1611.381409646163,
+        "Speed": 238,
+        "nGear": 6
+    },
+    {
+        "Distance": 1614.2261111111104,
+        "Speed": 242,
+        "nGear": 6
+    },
+    {
+        "Distance": 1626.360789451325,
+        "Speed": 244,
+        "nGear": 6
+    },
+    {
+        "Distance": 1630.62611111111,
+        "Speed": 246,
+        "nGear": 6
+    },
+    {
+        "Distance": 1641.5920969735414,
+        "Speed": 248,
+        "nGear": 6
+    },
+    {
+        "Distance": 1647.2233333333327,
+        "Speed": 250,
+        "nGear": 6
+    },
+    {
+        "Distance": 1656.8575102563332,
+        "Speed": 250,
+        "nGear": 6
+    },
+    {
+        "Distance": 1663.8899999999994,
+        "Speed": 250,
+        "nGear": 6
+    },
+    {
+        "Distance": 1672.2567548877719,
+        "Speed": 252,
+        "nGear": 6
+    },
+    {
+        "Distance": 1680.8233333333324,
+        "Speed": 254,
+        "nGear": 6
+    },
+    {
+        "Distance": 1687.853344236688,
+        "Speed": 255,
+        "nGear": 6
+    },
+    {
+        "Distance": 1697.8899999999992,
+        "Speed": 256,
+        "nGear": 7
+    },
+    {
+        "Distance": 1703.5200468024577,
+        "Speed": 256,
+        "nGear": 7
+    },
+    {
+        "Distance": 1715.0233333333326,
+        "Speed": 257,
+        "nGear": 7
+    },
+    {
+        "Distance": 1719.2563970439905,
+        "Speed": 258,
+        "nGear": 7
+    },
+    {
+        "Distance": 1732.2899999999988,
+        "Speed": 259,
+        "nGear": 7
+    },
+    {
+        "Distance": 1735.1030156505888,
+        "Speed": 259,
+        "nGear": 7
+    },
+    {
+        "Distance": 1749.6233333333323,
+        "Speed": 260,
+        "nGear": 7
+    },
+    {
+        "Distance": 1750.9978723666381,
+        "Speed": 260,
+        "nGear": 7
+    },
+    {
+        "Distance": 1766.9505576909064,
+        "Speed": 260,
+        "nGear": 7
+    },
+    {
+        "Distance": 1767.0233333333324,
+        "Speed": 261,
+        "nGear": 7
+    },
+    {
+        "Distance": 1783.0176010643722,
+        "Speed": 262,
+        "nGear": 7
+    },
+    {
+        "Distance": 1784.556666666666,
+        "Speed": 263,
+        "nGear": 7
+    },
+    {
+        "Distance": 1799.1907526909224,
+        "Speed": 264,
+        "nGear": 7
+    },
+    {
+        "Distance": 1802.2233333333322,
+        "Speed": 265,
+        "nGear": 7
+    },
+    {
+        "Distance": 1815.5423938942686,
+        "Speed": 266,
+        "nGear": 7
+    },
+    {
+        "Distance": 1823.0677777777767,
+        "Speed": 268,
+        "nGear": 7
+    },
+    {
+        "Distance": 1831.9139432339575,
+        "Speed": 268,
+        "nGear": 7
+    },
+    {
+        "Distance": 1840.9344444444434,
+        "Speed": 268,
+        "nGear": 7
+    },
+    {
+        "Distance": 1846.9397271450039,
+        "Speed": 269,
+        "nGear": 7
+    },
+    {
+        "Distance": 1859.0011111111103,
+        "Speed": 271,
+        "nGear": 7
+    },
+    {
+        "Distance": 1863.5161478266054,
+        "Speed": 271,
+        "nGear": 7
+    },
+    {
+        "Distance": 1877.0677777777767,
+        "Speed": 271,
+        "nGear": 7
+    },
+    {
+        "Distance": 1880.0942925690658,
+        "Speed": 271,
+        "nGear": 7
+    },
+    {
+        "Distance": 1892.2544444444434,
+        "Speed": 272,
+        "nGear": 7
+    },
+    {
+        "Distance": 1896.6382324795627,
+        "Speed": 268,
+        "nGear": 7
+    },
+    {
+        "Distance": 1909.8544444444435,
+        "Speed": 264,
+        "nGear": 7
+    },
+    {
+        "Distance": 1912.672548712773,
+        "Speed": 261,
+        "nGear": 7
+    },
+    {
+        "Distance": 1927.0544444444436,
+        "Speed": 258,
+        "nGear": 7
+    },
+    {
+        "Distance": 1928.403090388507,
+        "Speed": 256,
+        "nGear": 7
+    },
+    {
+        "Distance": 1943.8518908803298,
+        "Speed": 254,
+        "nGear": 7
+    },
+    {
+        "Distance": 1943.92111111111,
+        "Speed": 253,
+        "nGear": 7
+    },
+    {
+        "Distance": 1958.8458435836328,
+        "Speed": 249,
+        "nGear": 7
+    },
+    {
+        "Distance": 1960.2544444444434,
+        "Speed": 245,
+        "nGear": 7
+    },
+    {
+        "Distance": 1973.3446667339747,
+        "Speed": 240,
+        "nGear": 7
+    },
+    {
+        "Distance": 1975.9211111111101,
+        "Speed": 235,
+        "nGear": 7
+    },
+    {
+        "Distance": 1986.5779794213738,
+        "Speed": 223,
+        "nGear": 7
+    },
+    {
+        "Distance": 1990.0544444444436,
+        "Speed": 212,
+        "nGear": 7
+    },
+    {
+        "Distance": 1998.8317654494836,
+        "Speed": 204,
+        "nGear": 7
+    },
+    {
+        "Distance": 2003.12111111111,
+        "Speed": 196,
+        "nGear": 7
+    },
+    {
+        "Distance": 2010.1674843989433,
+        "Speed": 186,
+        "nGear": 7
+    },
+    {
+        "Distance": 2014.9211111111101,
+        "Speed": 177,
+        "nGear": 7
+    },
+    {
+        "Distance": 2020.0279619517112,
+        "Speed": 164,
+        "nGear": 7
+    },
+    {
+        "Distance": 2025.0544444444436,
+        "Speed": 152,
+        "nGear": 6
+    },
+    {
+        "Distance": 2029.3334075555626,
+        "Speed": 152,
+        "nGear": 6
+    },
+    {
+        "Distance": 2035.1877777777768,
+        "Speed": 152,
+        "nGear": 4
+    },
+    {
+        "Distance": 2038.0075795381163,
+        "Speed": 135,
+        "nGear": 4
+    },
+    {
+        "Distance": 2043.0544444444436,
+        "Speed": 118,
+        "nGear": 2
+    },
+    {
+        "Distance": 2044.8176770075706,
+        "Speed": 112,
+        "nGear": 2
+    },
+    {
+        "Distance": 2050.187777777777,
+        "Speed": 107,
+        "nGear": 2
+    },
+    {
+        "Distance": 2051.269971332071,
+        "Speed": 103,
+        "nGear": 2
+    },
+    {
+        "Distance": 2056.7877777777767,
+        "Speed": 99,
+        "nGear": 2
+    },
+    {
+        "Distance": 2057.260125410034,
+        "Speed": 96,
+        "nGear": 2
+    },
+    {
+        "Distance": 2062.8046987208972,
+        "Speed": 93,
+        "nGear": 2
+    },
+    {
+        "Distance": 2062.8291666666655,
+        "Speed": 91,
+        "nGear": 2
+    },
+    {
+        "Distance": 2068.0215996518937,
+        "Speed": 88,
+        "nGear": 2
+    },
+    {
+        "Distance": 2068.495833333332,
+        "Speed": 85,
+        "nGear": 2
+    },
+    {
+        "Distance": 2072.7763532142326,
+        "Speed": 81,
+        "nGear": 2
+    },
+    {
+        "Distance": 2073.6291666666652,
+        "Speed": 77,
+        "nGear": 2
+    },
+    {
+        "Distance": 2077.277801803988,
+        "Speed": 75,
+        "nGear": 2
+    },
+    {
+        "Distance": 2078.495833333332,
+        "Speed": 73,
+        "nGear": 2
+    },
+    {
+        "Distance": 2081.6126185201197,
+        "Speed": 71,
+        "nGear": 2
+    },
+    {
+        "Distance": 2083.1624999999985,
+        "Speed": 70,
+        "nGear": 2
+    },
+    {
+        "Distance": 2085.756037791403,
+        "Speed": 68,
+        "nGear": 2
+    },
+    {
+        "Distance": 2087.5624999999986,
+        "Speed": 66,
+        "nGear": 2
+    },
+    {
+        "Distance": 2089.585115787232,
+        "Speed": 63,
+        "nGear": 2
+    },
+    {
+        "Distance": 2091.6291666666652,
+        "Speed": 61,
+        "nGear": 2
+    },
+    {
+        "Distance": 2093.372026588325,
+        "Speed": 63,
+        "nGear": 2
+    },
+    {
+        "Distance": 2095.9624999999987,
+        "Speed": 65,
+        "nGear": 2
+    },
+    {
+        "Distance": 2097.4686079402613,
+        "Speed": 68,
+        "nGear": 2
+    },
+    {
+        "Distance": 2100.6958333333323,
+        "Speed": 71,
+        "nGear": 2
+    },
+    {
+        "Distance": 2101.950412655253,
+        "Speed": 74,
+        "nGear": 2
+    },
+    {
+        "Distance": 2106.9717948917,
+        "Speed": 77,
+        "nGear": 2
+    },
+    {
+        "Distance": 2106.9958333333325,
+        "Speed": 81,
+        "nGear": 2
+    },
+    {
+        "Distance": 2112.510400444071,
+        "Speed": 86,
+        "nGear": 2
+    },
+    {
+        "Distance": 2113.062499999999,
+        "Speed": 91,
+        "nGear": 2
+    },
+    {
+        "Distance": 2117.9725019894827,
+        "Speed": 95,
+        "nGear": 2
+    },
+    {
+        "Distance": 2119.7291666666656,
+        "Speed": 100,
+        "nGear": 2
+    },
+    {
+        "Distance": 2124.7660001637514,
+        "Speed": 107,
+        "nGear": 2
+    },
+    {
+        "Distance": 2127.395833333332,
+        "Speed": 115,
+        "nGear": 2
+    },
+    {
+        "Distance": 2132.096563173871,
+        "Speed": 119,
+        "nGear": 2
+    },
+    {
+        "Distance": 2135.696944444443,
+        "Speed": 124,
+        "nGear": 2
+    },
+    {
+        "Distance": 2140.2729198042734,
+        "Speed": 132,
+        "nGear": 2
+    },
+    {
+        "Distance": 2145.0302777777765,
+        "Speed": 140,
+        "nGear": 3
+    },
+    {
+        "Distance": 2148.7982465458263,
+        "Speed": 140,
+        "nGear": 3
+    },
+    {
+        "Distance": 2154.3636111111095,
+        "Speed": 140,
+        "nGear": 3
+    },
+    {
+        "Distance": 2157.8490998500797,
+        "Speed": 153,
+        "nGear": 3
+    },
+    {
+        "Distance": 2165.4969444444428,
+        "Speed": 167,
+        "nGear": 3
+    },
+    {
+        "Distance": 2168.332435136666,
+        "Speed": 171,
+        "nGear": 3
+    },
+    {
+        "Distance": 2177.1636111111097,
+        "Speed": 175,
+        "nGear": 4
+    },
+    {
+        "Distance": 2179.11438125939,
+        "Speed": 179,
+        "nGear": 4
+    },
+    {
+        "Distance": 2189.430277777776,
+        "Speed": 184,
+        "nGear": 4
+    },
+    {
+        "Distance": 2190.4237084934866,
+        "Speed": 186,
+        "nGear": 4
+    },
+    {
+        "Distance": 2202.1755467482744,
+        "Speed": 189,
+        "nGear": 4
+    },
+    {
+        "Distance": 2202.2302777777763,
+        "Speed": 192,
+        "nGear": 4
+    },
+    {
+        "Distance": 2214.498874220022,
+        "Speed": 197,
+        "nGear": 4
+    },
+    {
+        "Distance": 2215.696944444443,
+        "Speed": 202,
+        "nGear": 4
+    },
+    {
+        "Distance": 2227.212281600333,
+        "Speed": 205,
+        "nGear": 4
+    },
+    {
+        "Distance": 2229.6302777777764,
+        "Speed": 209,
+        "nGear": 5
+    },
+    {
+        "Distance": 2240.38061107468,
+        "Speed": 213,
+        "nGear": 5
+    },
+    {
+        "Distance": 2244.0969444444427,
+        "Speed": 217,
+        "nGear": 5
+    },
+    {
+        "Distance": 2253.887393217829,
+        "Speed": 220,
+        "nGear": 5
+    },
+    {
+        "Distance": 2258.9636111111095,
+        "Speed": 223,
+        "nGear": 5
+    },
+    {
+        "Distance": 2267.84241164803,
+        "Speed": 226,
+        "nGear": 5
+    },
+    {
+        "Distance": 2274.296944444443,
+        "Speed": 230,
+        "nGear": 5
+    },
+    {
+        "Distance": 2281.733597989468,
+        "Speed": 226,
+        "nGear": 5
+    },
+    {
+        "Distance": 2289.096944444443,
+        "Speed": 222,
+        "nGear": 5
+    },
+    {
+        "Distance": 2294.614467051706,
+        "Speed": 209,
+        "nGear": 5
+    },
+    {
+        "Distance": 2302.1636111111097,
+        "Speed": 196,
+        "nGear": 5
+    },
+    {
+        "Distance": 2306.208076053075,
+        "Speed": 189,
+        "nGear": 5
+    },
+    {
+        "Distance": 2314.36361111111,
+        "Speed": 183,
+        "nGear": 5
+    },
+    {
+        "Distance": 2317.192688094405,
+        "Speed": 177,
+        "nGear": 5
+    },
+    {
+        "Distance": 2325.782499999999,
+        "Speed": 172,
+        "nGear": 4
+    },
+    {
+        "Distance": 2327.61081619997,
+        "Speed": 169,
+        "nGear": 4
+    },
+    {
+        "Distance": 2336.915833333332,
+        "Speed": 167,
+        "nGear": 4
+    },
+    {
+        "Distance": 2337.782874388826,
+        "Speed": 165,
+        "nGear": 4
+    },
+    {
+        "Distance": 2347.736954689425,
+        "Speed": 164,
+        "nGear": 4
+    },
+    {
+        "Distance": 2347.782499999999,
+        "Speed": 163,
+        "nGear": 4
+    },
+    {
+        "Distance": 2357.870883777202,
+        "Speed": 164,
+        "nGear": 4
+    },
+    {
+        "Distance": 2358.8491666666655,
+        "Speed": 166,
+        "nGear": 4
+    },
+    {
+        "Distance": 2368.21962776919,
+        "Speed": 168,
+        "nGear": 4
+    },
+    {
+        "Distance": 2370.1824999999985,
+        "Speed": 170,
+        "nGear": 4
+    },
+    {
+        "Distance": 2378.9150884045494,
+        "Speed": 173,
+        "nGear": 4
+    },
+    {
+        "Distance": 2381.9824999999987,
+        "Speed": 177,
+        "nGear": 4
+    },
+    {
+        "Distance": 2390.2314145558007,
+        "Speed": 182,
+        "nGear": 4
+    },
+    {
+        "Distance": 2394.515833333332,
+        "Speed": 188,
+        "nGear": 4
+    },
+    {
+        "Distance": 2401.9386432676924,
+        "Speed": 191,
+        "nGear": 4
+    },
+    {
+        "Distance": 2407.449166666665,
+        "Speed": 194,
+        "nGear": 4
+    },
+    {
+        "Distance": 2414.1191678863725,
+        "Speed": 199,
+        "nGear": 4
+    },
+    {
+        "Distance": 2421.049166666665,
+        "Speed": 204,
+        "nGear": 5
+    },
+    {
+        "Distance": 2426.7927409353624,
+        "Speed": 207,
+        "nGear": 5
+    },
+    {
+        "Distance": 2435.049166666665,
+        "Speed": 210,
+        "nGear": 5
+    },
+    {
+        "Distance": 2439.6883822382642,
+        "Speed": 211,
+        "nGear": 5
+    },
+    {
+        "Distance": 2449.249166666665,
+        "Speed": 213,
+        "nGear": 5
+    },
+    {
+        "Distance": 2451.6716745687218,
+        "Speed": 217,
+        "nGear": 5
+    },
+    {
+        "Distance": 2463.9824999999983,
+        "Speed": 221,
+        "nGear": 5
+    },
+    {
+        "Distance": 2465.215343457048,
+        "Speed": 221,
+        "nGear": 5
+    },
+    {
+        "Distance": 2478.7824999999984,
+        "Speed": 222,
+        "nGear": 6
+    },
+    {
+        "Distance": 2491.289166666665,
+        "Speed": 224,
+        "nGear": 6
+    },
+    {
+        "Distance": 2492.470212928126,
+        "Speed": 224,
+        "nGear": 6
+    },
+    {
+        "Distance": 2506.1597077274064,
+        "Speed": 224,
+        "nGear": 6
+    },
+    {
+        "Distance": 2506.2224999999985,
+        "Speed": 224,
+        "nGear": 6
+    },
+    {
+        "Distance": 2520.138989247635,
+        "Speed": 226,
+        "nGear": 6
+    },
+    {
+        "Distance": 2521.489166666665,
+        "Speed": 229,
+        "nGear": 6
+    },
+    {
+        "Distance": 2534.4063726868285,
+        "Speed": 231,
+        "nGear": 6
+    },
+    {
+        "Distance": 2537.089166666665,
+        "Speed": 234,
+        "nGear": 6
+    },
+    {
+        "Distance": 2548.867563307458,
+        "Speed": 235,
+        "nGear": 6
+    },
+    {
+        "Distance": 2552.889166666665,
+        "Speed": 237,
+        "nGear": 6
+    },
+    {
+        "Distance": 2563.3655557531283,
+        "Speed": 237,
+        "nGear": 6
+    },
+    {
+        "Distance": 2568.689166666665,
+        "Speed": 237,
+        "nGear": 6
+    },
+    {
+        "Distance": 2577.7893409678045,
+        "Speed": 235,
+        "nGear": 6
+    },
+    {
+        "Distance": 2584.222499999998,
+        "Speed": 233,
+        "nGear": 6
+    },
+    {
+        "Distance": 2591.481966477597,
+        "Speed": 224,
+        "nGear": 6
+    },
+    {
+        "Distance": 2598.5558333333315,
+        "Speed": 215,
+        "nGear": 6
+    },
+    {
+        "Distance": 2604.14909981718,
+        "Speed": 206,
+        "nGear": 6
+    },
+    {
+        "Distance": 2611.689166666665,
+        "Speed": 197,
+        "nGear": 6
+    },
+    {
+        "Distance": 2615.611014351918,
+        "Speed": 184,
+        "nGear": 6
+    },
+    {
+        "Distance": 2623.1558333333314,
+        "Speed": 172,
+        "nGear": 5
+    },
+    {
+        "Distance": 2625.890473634061,
+        "Speed": 167,
+        "nGear": 5
+    },
+    {
+        "Distance": 2634.022499999998,
+        "Speed": 163,
+        "nGear": 4
+    },
+    {
+        "Distance": 2635.6590836993055,
+        "Speed": 153,
+        "nGear": 4
+    },
+    {
+        "Distance": 2643.5558333333315,
+        "Speed": 143,
+        "nGear": 3
+    },
+    {
+        "Distance": 2644.244952917618,
+        "Speed": 140,
+        "nGear": 3
+    },
+    {
+        "Distance": 2652.5475879233404,
+        "Speed": 138,
+        "nGear": 3
+    },
+    {
+        "Distance": 2652.622499999998,
+        "Speed": 136,
+        "nGear": 3
+    },
+    {
+        "Distance": 2660.6978078416755,
+        "Speed": 134,
+        "nGear": 3
+    },
+    {
+        "Distance": 2661.4891666666645,
+        "Speed": 133,
+        "nGear": 3
+    },
+    {
+        "Distance": 2668.385676053601,
+        "Speed": 129,
+        "nGear": 3
+    },
+    {
+        "Distance": 2669.822499999998,
+        "Speed": 125,
+        "nGear": 3
+    },
+    {
+        "Distance": 2675.866340811468,
+        "Speed": 123,
+        "nGear": 3
+    },
+    {
+        "Distance": 2677.9219444444425,
+        "Speed": 122,
+        "nGear": 3
+    },
+    {
+        "Distance": 2683.242903669552,
+        "Speed": 121,
+        "nGear": 3
+    },
+    {
+        "Distance": 2685.9219444444425,
+        "Speed": 120,
+        "nGear": 3
+    },
+    {
+        "Distance": 2690.4585929676423,
+        "Speed": 118,
+        "nGear": 3
+    },
+    {
+        "Distance": 2693.7219444444427,
+        "Speed": 117,
+        "nGear": 3
+    },
+    {
+        "Distance": 2697.543751060115,
+        "Speed": 116,
+        "nGear": 3
+    },
+    {
+        "Distance": 2701.4552777777762,
+        "Speed": 116,
+        "nGear": 3
+    },
+    {
+        "Distance": 2704.713689279032,
+        "Speed": 118,
+        "nGear": 3
+    },
+    {
+        "Distance": 2709.4552777777762,
+        "Speed": 120,
+        "nGear": 3
+    },
+    {
+        "Distance": 2712.1708131378364,
+        "Speed": 123,
+        "nGear": 3
+    },
+    {
+        "Distance": 2717.921944444443,
+        "Speed": 127,
+        "nGear": 3
+    },
+    {
+        "Distance": 2720.14707194576,
+        "Speed": 134,
+        "nGear": 3
+    },
+    {
+        "Distance": 2727.321944444443,
+        "Speed": 141,
+        "nGear": 3
+    },
+    {
+        "Distance": 2728.9171754907707,
+        "Speed": 146,
+        "nGear": 3
+    },
+    {
+        "Distance": 2737.3886111111096,
+        "Speed": 151,
+        "nGear": 3
+    },
+    {
+        "Distance": 2738.2095321376714,
+        "Speed": 154,
+        "nGear": 3
+    },
+    {
+        "Distance": 2748.0091176959636,
+        "Speed": 157,
+        "nGear": 3
+    },
+    {
+        "Distance": 2748.0552777777766,
+        "Speed": 160,
+        "nGear": 4
+    },
+    {
+        "Distance": 2758.5408336179507,
+        "Speed": 167,
+        "nGear": 4
+    },
+    {
+        "Distance": 2761.58861111111,
+        "Speed": 174,
+        "nGear": 4
+    },
+    {
+        "Distance": 2768.7831058802085,
+        "Speed": 180,
+        "nGear": 4
+    },
+    {
+        "Distance": 2773.98861111111,
+        "Speed": 186,
+        "nGear": 4
+    },
+    {
+        "Distance": 2780.2206769436075,
+        "Speed": 186,
+        "nGear": 4
+    },
+    {
+        "Distance": 2786.38861111111,
+        "Speed": 186,
+        "nGear": 4
+    },
+    {
+        "Distance": 2791.4426681765817,
+        "Speed": 183,
+        "nGear": 4
+    },
+    {
+        "Distance": 2796.494444444443,
+        "Speed": 181,
+        "nGear": 4
+    },
+    {
+        "Distance": 2802.4127642574886,
+        "Speed": 178,
+        "nGear": 4
+    },
+    {
+        "Distance": 2808.2277777777767,
+        "Speed": 176,
+        "nGear": 4
+    },
+    {
+        "Distance": 2812.707391482356,
+        "Speed": 167,
+        "nGear": 4
+    },
+    {
+        "Distance": 2818.8277777777766,
+        "Speed": 159,
+        "nGear": 4
+    },
+    {
+        "Distance": 2822.2401579387824,
+        "Speed": 155,
+        "nGear": 4
+    },
+    {
+        "Distance": 2828.96111111111,
+        "Speed": 152,
+        "nGear": 4
+    },
+    {
+        "Distance": 2831.2397280363853,
+        "Speed": 141,
+        "nGear": 4
+    },
+    {
+        "Distance": 2837.694444444443,
+        "Speed": 131,
+        "nGear": 4
+    },
+    {
+        "Distance": 2839.0172297508316,
+        "Speed": 123,
+        "nGear": 4
+    },
+    {
+        "Distance": 2845.4277777777766,
+        "Speed": 116,
+        "nGear": 2
+    },
+    {
+        "Distance": 2845.9890141936044,
+        "Speed": 110,
+        "nGear": 2
+    },
+    {
+        "Distance": 2851.936048981412,
+        "Speed": 104,
+        "nGear": 2
+    },
+    {
+        "Distance": 2851.96111111111,
+        "Speed": 98,
+        "nGear": 2
+    },
+    {
+        "Distance": 2857.09454208889,
+        "Speed": 91,
+        "nGear": 2
+    },
+    {
+        "Distance": 2857.5611111111098,
+        "Speed": 84,
+        "nGear": 2
+    },
+    {
+        "Distance": 2861.8150277919126,
+        "Speed": 80,
+        "nGear": 2
+    },
+    {
+        "Distance": 2863.472222222221,
+        "Speed": 76,
+        "nGear": 2
+    },
+    {
+        "Distance": 2866.227445913143,
+        "Speed": 73,
+        "nGear": 2
+    },
+    {
+        "Distance": 2868.2055555555544,
+        "Speed": 71,
+        "nGear": 2
+    },
+    {
+        "Distance": 2870.54920731352,
+        "Speed": 70,
+        "nGear": 2
+    },
+    {
+        "Distance": 2872.872222222221,
+        "Speed": 70,
+        "nGear": 2
+    },
+    {
+        "Distance": 2874.671082669782,
+        "Speed": 67,
+        "nGear": 2
+    },
+    {
+        "Distance": 2877.138888888888,
+        "Speed": 64,
+        "nGear": 2
+    },
+    {
+        "Distance": 2878.4989833718637,
+        "Speed": 63,
+        "nGear": 2
+    },
+    {
+        "Distance": 2881.272222222221,
+        "Speed": 62,
+        "nGear": 2
+    },
+    {
+        "Distance": 2882.2263299234687,
+        "Speed": 60,
+        "nGear": 2
+    },
+    {
+        "Distance": 2885.138888888888,
+        "Speed": 58,
+        "nGear": 2
+    },
+    {
+        "Distance": 2885.7506843159053,
+        "Speed": 58,
+        "nGear": 2
+    },
+    {
+        "Distance": 2889.072222222221,
+        "Speed": 59,
+        "nGear": 2
+    },
+    {
+        "Distance": 2889.3783136443735,
+        "Speed": 60,
+        "nGear": 2
+    },
+    {
+        "Distance": 2893.301154959535,
+        "Speed": 62,
+        "nGear": 2
+    },
+    {
+        "Distance": 2893.3388888888876,
+        "Speed": 64,
+        "nGear": 2
+    },
+    {
+        "Distance": 2897.681231235758,
+        "Speed": 68,
+        "nGear": 2
+    },
+    {
+        "Distance": 2898.118888888888,
+        "Speed": 72,
+        "nGear": 2
+    },
+    {
+        "Distance": 2902.437014592447,
+        "Speed": 75,
+        "nGear": 2
+    },
+    {
+        "Distance": 2903.385555555554,
+        "Speed": 79,
+        "nGear": 2
+    },
+    {
+        "Distance": 2907.7990309314364,
+        "Speed": 84,
+        "nGear": 2
+    },
+    {
+        "Distance": 2909.3855555555547,
+        "Speed": 90,
+        "nGear": 2
+    },
+    {
+        "Distance": 2913.6924379549773,
+        "Speed": 94,
+        "nGear": 2
+    },
+    {
+        "Distance": 2915.9855555555546,
+        "Speed": 99,
+        "nGear": 2
+    },
+    {
+        "Distance": 2920.0803234453097,
+        "Speed": 103,
+        "nGear": 2
+    },
+    {
+        "Distance": 2923.1855555555544,
+        "Speed": 108,
+        "nGear": 2
+    },
+    {
+        "Distance": 2926.9872398881653,
+        "Speed": 111,
+        "nGear": 2
+    },
+    {
+        "Distance": 2930.8522222222214,
+        "Speed": 115,
+        "nGear": 2
+    },
+    {
+        "Distance": 2933.892560431786,
+        "Speed": 111,
+        "nGear": 2
+    },
+    {
+        "Distance": 2937.9855555555546,
+        "Speed": 107,
+        "nGear": 2
+    },
+    {
+        "Distance": 2940.1246601981056,
+        "Speed": 100,
+        "nGear": 2
+    },
+    {
+        "Distance": 2944.252222222221,
+        "Speed": 94,
+        "nGear": 2
+    },
+    {
+        "Distance": 2945.7457497611886,
+        "Speed": 92,
+        "nGear": 2
+    },
+    {
+        "Distance": 2950.2522222222215,
+        "Speed": 90,
+        "nGear": 2
+    },
+    {
+        "Distance": 2951.19882689156,
+        "Speed": 87,
+        "nGear": 2
+    },
+    {
+        "Distance": 2955.918888888888,
+        "Speed": 85,
+        "nGear": 2
+    },
+    {
+        "Distance": 2960.7579894636706,
+        "Speed": 82,
+        "nGear": 2
+    },
+    {
+        "Distance": 2962.0633333333326,
+        "Speed": 79,
+        "nGear": 2
+    },
+    {
+        "Distance": 2965.564634127384,
+        "Speed": 79,
+        "nGear": 2
+    },
+    {
+        "Distance": 2967.3519444444437,
+        "Speed": 79,
+        "nGear": 2
+    },
+    {
+        "Distance": 2970.44666451501,
+        "Speed": 80,
+        "nGear": 2
+    },
+    {
+        "Distance": 2972.751944444444,
+        "Speed": 81,
+        "nGear": 2
+    },
+    {
+        "Distance": 2975.5582552529013,
+        "Speed": 84,
+        "nGear": 2
+    },
+    {
+        "Distance": 2978.551944444444,
+        "Speed": 87,
+        "nGear": 2
+    },
+    {
+        "Distance": 2981.137113316427,
+        "Speed": 92,
+        "nGear": 2
+    },
+    {
+        "Distance": 2985.0186111111107,
+        "Speed": 97,
+        "nGear": 2
+    },
+    {
+        "Distance": 2987.2881394202473,
+        "Speed": 102,
+        "nGear": 2
+    },
+    {
+        "Distance": 2992.1519444444443,
+        "Speed": 107,
+        "nGear": 2
+    },
+    {
+        "Distance": 2994.0292411855153,
+        "Speed": 113,
+        "nGear": 2
+    },
+    {
+        "Distance": 3000.0852777777773,
+        "Speed": 119,
+        "nGear": 2
+    },
+    {
+        "Distance": 3001.4402881161404,
+        "Speed": 124,
+        "nGear": 2
+    },
+    {
+        "Distance": 3008.685277777777,
+        "Speed": 129,
+        "nGear": 2
+    },
+    {
+        "Distance": 3009.3907695515654,
+        "Speed": 132,
+        "nGear": 2
+    },
+    {
+        "Distance": 3017.9109439969207,
+        "Speed": 135,
+        "nGear": 2
+    },
+    {
+        "Distance": 3017.951944444444,
+        "Speed": 139,
+        "nGear": 3
+    },
+    {
+        "Distance": 3027.4158078641794,
+        "Speed": 147,
+        "nGear": 3
+    },
+    {
+        "Distance": 3028.3519444444437,
+        "Speed": 156,
+        "nGear": 3
+    },
+    {
+        "Distance": 3037.4098985850746,
+        "Speed": 160,
+        "nGear": 3
+    },
+    {
+        "Distance": 3039.3519444444432,
+        "Speed": 165,
+        "nGear": 3
+    },
+    {
+        "Distance": 3048.188128578345,
+        "Speed": 172,
+        "nGear": 3
+    },
+    {
+        "Distance": 3051.285277777777,
+        "Speed": 179,
+        "nGear": 4
+    },
+    {
+        "Distance": 3059.4973332218965,
+        "Speed": 183,
+        "nGear": 4
+    },
+    {
+        "Distance": 3063.7519444444433,
+        "Speed": 187,
+        "nGear": 4
+    },
+    {
+        "Distance": 3071.1061663862674,
+        "Speed": 190,
+        "nGear": 4
+    },
+    {
+        "Distance": 3076.6852777777763,
+        "Speed": 194,
+        "nGear": 4
+    },
+    {
+        "Distance": 3083.339637852502,
+        "Speed": 199,
+        "nGear": 4
+    },
+    {
+        "Distance": 3090.2852777777766,
+        "Speed": 204,
+        "nGear": 5
+    },
+    {
+        "Distance": 3095.7912104002016,
+        "Speed": 204,
+        "nGear": 5
+    },
+    {
+        "Distance": 3103.8852777777765,
+        "Speed": 204,
+        "nGear": 5
+    },
+    {
+        "Distance": 3108.5451442759013,
+        "Speed": 211,
+        "nGear": 5
+    },
+    {
+        "Distance": 3118.485277777777,
+        "Speed": 219,
+        "nGear": 5
+    },
+    {
+        "Distance": 3122.010630271088,
+        "Speed": 219,
+        "nGear": 5
+    },
+    {
+        "Distance": 3133.024444444443,
+        "Speed": 219,
+        "nGear": 5
+    },
+    {
+        "Distance": 3135.4553338164596,
+        "Speed": 224,
+        "nGear": 5
+    },
+    {
+        "Distance": 3148.2911111111102,
+        "Speed": 229,
+        "nGear": 5
+    },
+    {
+        "Distance": 3149.519995250772,
+        "Speed": 231,
+        "nGear": 5
+    },
+    {
+        "Distance": 3163.891967180701,
+        "Speed": 233,
+        "nGear": 5
+    },
+    {
+        "Distance": 3163.9577777777768,
+        "Speed": 235,
+        "nGear": 6
+    },
+    {
+        "Distance": 3178.480753344301,
+        "Speed": 237,
+        "nGear": 6
+    },
+    {
+        "Distance": 3179.8911111111097,
+        "Speed": 239,
+        "nGear": 6
+    },
+    {
+        "Distance": 3193.4177084823446,
+        "Speed": 242,
+        "nGear": 6
+    },
+    {
+        "Distance": 3196.2244444444436,
+        "Speed": 245,
+        "nGear": 6
+    },
+    {
+        "Distance": 3208.528701890682,
+        "Speed": 246,
+        "nGear": 6
+    },
+    {
+        "Distance": 3212.7577777777765,
+        "Speed": 248,
+        "nGear": 6
+    },
+    {
+        "Distance": 3223.8839881985796,
+        "Speed": 250,
+        "nGear": 6
+    },
+    {
+        "Distance": 3229.557777777776,
+        "Speed": 252,
+        "nGear": 6
+    },
+    {
+        "Distance": 3239.2529102917874,
+        "Speed": 252,
+        "nGear": 6
+    },
+    {
+        "Distance": 3246.357777777777,
+        "Speed": 252,
+        "nGear": 6
+    },
+    {
+        "Distance": 3254.8716829785512,
+        "Speed": 255,
+        "nGear": 6
+    },
+    {
+        "Distance": 3263.6244444444433,
+        "Speed": 259,
+        "nGear": 6
+    },
+    {
+        "Distance": 3270.8097507883094,
+        "Speed": 260,
+        "nGear": 6
+    },
+    {
+        "Distance": 3281.0911111111095,
+        "Speed": 262,
+        "nGear": 7
+    },
+    {
+        "Distance": 3285.4880289625653,
+        "Speed": 263,
+        "nGear": 7
+    },
+    {
+        "Distance": 3286.148725536264,
+        "Speed": 264,
+        "nGear": 7
+    }
+]
