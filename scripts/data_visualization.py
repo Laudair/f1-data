@@ -7,7 +7,7 @@ import firebase_admin
 from firebase_admin import credentials, db
 
 # Initialize Firebase Admin
-cred = credentials.Certificate('path/to/your/firebase-adminsdk.json')  # Update this path
+cred = credentials.Certificate('../api/f1-data-admin-sdk.json')  
 firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://f1-data-6fee2-default-rtdb.asia-southeast1.firebasedatabase.app'  # Update this URL
 })

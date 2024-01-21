@@ -12,7 +12,7 @@ app.use(cors());
 app.get('/get-f1-data', (req, res) => {
     const { year, race, driver } = req.query;
 
-    const ref = db.ref(`f1data/${year}/${race}/${driver}`);
+    const ref = db.ref(`f1data/${year}_${race}_${driver}`);
     ref.once('value', (snapshot) => {
         if (snapshot.exists()) {
             console.log('Data found in Firebase. Sending data...');
