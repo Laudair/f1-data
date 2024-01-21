@@ -1,38 +1,44 @@
 const express = require('express');
 const { exec } = require('child_process');
-const fs = require('fs');
-const path = require('path');
+const cors = require('cors');
+const db = require('./firebaseAdminConfig'); 
+
 const app = express();
 const port = 3000;
-const cors = require('cors');
 
-// Enable CORS for all routes
 app.use(cors());
+
 
 app.get('/get-f1-data', (req, res) => {
     const { year, race, driver } = req.query;
-    console.log(`Request received for year: ${year}, race: ${race}, driver: ${driver}`);
 
-    const cacheFile = `../cache/${year}_${race}_${driver}.json`;
-
-    // Check if cache exists
-    if (fs.existsSync(path.join(__dirname, cacheFile))) {
-        console.log('Cache found. Sending cached data...');
-        res.sendFile(path.join(__dirname, cacheFile));
-    } else {
-        console.log('Cache not found. Running Python script...');
-        // Construct the Python command
-        const pythonCommand = `python ../scripts/data_visualization.py ${year} ${race} ${driver}`;
-
-        exec(pythonCommand, (error, stdout, stderr) => {
-            if (error) {
-                console.error(`Exec error: ${error}`);
-                return res.status(500).send(stderr);
-            }
-            console.log('Python script executed. Sending new data...');
-            res.sendFile(path.join(__dirname, cacheFile));
-        });
-    }
+    const ref = db.ref(`f1data/${year}_${race}_${driver}`);
+    ref.once('value', (snapshot) => {
+        if (snapshot.exists()) {
+            console.log('Data found in Firebase. Sending data...');
+            res.json(snapshot.val());
+        } else {
+            console.log('Data not found in Firebase. Running Python script...');
+            const pythonCommand = `python ../scripts/data_visualization.py ${year} ${race} ${driver}`;
+            exec(pythonCommand, (error, stdout, stderr) => {
+                if (error) {
+                    console.error(`Exec error: ${error}`);
+                    return res.status(500).send(stderr);
+                }
+                console.log('Python script executed. Fetching new data from Firebase...');
+                ref.once('value', (newSnapshot) => {
+                    if (newSnapshot.exists()) {
+                        res.json(newSnapshot.val());
+                    } else {
+                        res.status(500).send('Error fetching new data');
+                    }
+                });
+            });
+        }
+    }, (error) => {
+        console.error('Firebase read error:', error);
+        res.status(500).send('Error fetching data from Firebase');
+    });
 });
 
 app.listen(port, () => {
